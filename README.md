@@ -58,4 +58,13 @@ Run model.ipynb:
 | `extraction.ipynb` | Extracts MFCC features from audio files and saves as `.npy`.  |
 | `model.ipynb`      | Loads features and labels, builds and trains the CNN model.   |
 | `requirements.txt` | Lists all Python dependencies required to run the project.    |
-| `README.md`        | Project overview and step-by-step setup instructions.         |
+
+---
+Notes
+	•	The model is trained to classify 8 emotions: Angry, Calm, Disgust, Fearful, Happy, Neutral, Sad, Surprised.
+	•	You can experiment with different feature dimensions, model architectures, or introduce data augmentation.
+---
+Author
+
+Garvit Mehra
+IIT | CE24BTECH11021
