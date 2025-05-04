@@ -61,8 +61,8 @@ Run model.ipynb:
 
 ---
 Notes
-	•	The model is trained to classify 8 emotions: Angry, Calm, Disgust, Fearful, Happy, Neutral, Sad, Surprised.
-	•	You can experiment with different feature dimensions, model architectures, or introduce data augmentation.
+- The model is trained to classify 8 emotions: Angry, Calm, Disgust, Fearful, Happy, Neutral, Sad, Surprised.
+- You can experiment with different feature dimensions, model architectures, or introduce data augmentation.
 ---
 Author
 
