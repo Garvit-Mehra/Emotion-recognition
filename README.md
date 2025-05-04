@@ -1,4 +1,4 @@
-# 🎧 Emotion Recognition from Audio Using CNNs
+# Emotion Recognition from Audio Using CNNs
 
 This repository implements a complete pipeline for recognizing emotions in speech audio using Mel-Frequency Cepstral Coefficients (MFCCs) and a Convolutional Neural Network (CNN).
 
@@ -13,7 +13,7 @@ This project is divided into two key stages:
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 Follow these steps to get started:
 
@@ -52,4 +52,10 @@ Run model.ipynb:
 - Builds and trains a CNN using Keras.
 - Evaluates the model and visualizes performance using accuracy curves, confusion matrix, and classification report.
 ---
-🗂️ File Structure
+### File Structure
+| File               | Description                                                   |
+|--------------------|---------------------------------------------------------------|
+| `extraction.ipynb` | Extracts MFCC features from audio files and saves as `.npy`.  |
+| `model.ipynb`      | Loads features and labels, builds and trains the CNN model.   |
+| `requirements.txt` | Lists all Python dependencies required to run the project.    |
+| `README.md`        | Project overview and step-by-step setup instructions.         |
