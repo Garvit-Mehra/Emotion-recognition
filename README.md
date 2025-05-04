@@ -64,7 +64,5 @@ Notes
 - The model is trained to classify 8 emotions: Angry, Calm, Disgust, Fearful, Happy, Neutral, Sad, Surprised.
 - You can experiment with different feature dimensions, model architectures, or introduce data augmentation.
 ---
-Author
 
-Garvit Mehra
-IIT | CE24BTECH11021
+© 2025 Garvit Mehra. Licensed under the Apache License, Version 2.0.
